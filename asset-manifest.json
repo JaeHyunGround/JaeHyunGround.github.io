@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b0e6ced9.css",
+    "main.js": "/static/js/main.cbed2077.js",
+    "static/media/MainCarousel3.webp": "/static/media/MainCarousel3.c950d73eb4910ccc8b65.webp",
+    "static/media/MainCarousel2.webp": "/static/media/MainCarousel2.c37506a91d74ce677e11.webp",
+    "static/media/MainCarousel1.webp": "/static/media/MainCarousel1.46186f255a494c546c92.webp",
+    "static/media/mobile_token.webp": "/static/media/mobile_token.958e9e6d25e3c0c18dc4.webp",
+    "static/media/mobileMain.webp": "/static/media/mobileMain.7d62baf5a720ee188160.webp",
+    "static/media/2buyMmaiToken7ae4c83d.webp": "/static/media/2buyMmaiToken7ae4c83d.ccdf8fea13a5ff8f9180.webp",
+    "static/media/mobile_wallet.webp": "/static/media/mobile_wallet.d124d464c1410a658e03.webp",
+    "static/media/go_marketplace.webp": "/static/media/go_marketplace.cb2733588ed1c512a5a8.webp",
+    "static/media/pop_base.png": "/static/media/pop_base.18f679d7c65470c3da57.png",
+    "static/media/main_world.webp": "/static/media/main_world.4d8f35f6a560f17c8186.webp",
+    "static/media/main_wallet.webp": "/static/media/main_wallet.9e47758cdaa01109803f.webp",
+    "index.html": "/index.html",
+    "main.b0e6ced9.css.map": "/static/css/main.b0e6ced9.css.map",
+    "main.cbed2077.js.map": "/static/js/main.cbed2077.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0e6ced9.css",
+    "static/js/main.cbed2077.js"
+  ]
+}
